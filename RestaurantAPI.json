@@ -1,0 +1,41 @@
+// restaurant-api.json
+
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "Tasty Bites",
+      "deals": [
+        {
+          "deal_id": 101,
+          "deal_name": "Lunch Special",
+          "discount": "20%"
+        },
+        {
+          "deal_id": 102,
+          "deal_name": "Dinner Combo",
+          "discount": "15%"
+        }
+      ],
+      "picture": "tasty_bites.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Pizza Palace",
+      "deals": [
+        {
+          "deal_id": 201,
+          "deal_name": "Family Pack",
+          "discount": "25%"
+        },
+        {
+          "deal_id": 202,
+          "deal_name": "Weekend Special",
+          "discount": "10%"
+        }
+      ],
+      "picture": "pizza_palace.jpg"
+    }
+    // Add more restaurants as needed
+  ]
+}
