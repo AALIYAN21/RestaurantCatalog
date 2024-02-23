@@ -2,20 +2,20 @@
   "restaurants": [
     {
       "id": 1,
-      "name": "Tasty Bites",
+      "name": "KFC",
       "deals": [
         {
-          "deal_id": 101,
-          "deal_name": "Lunch Special",
-          "discount": "20%"
+          "deal_id": 001,
+          "deal_name": "Weekend Deal",
+          "discount": "10%"
         },
         {
-          "deal_id": 102,
-          "deal_name": "Dinner Combo",
-          "discount": "15%"
+          "deal_id": 002,
+          "deal_name": "Krunch Burger & Drink",
+          "discount": "only in 280 Rs"
         }
       ],
-      "picture": "tasty_bites.jpg"
+      "picture": "KFC.jpg"
     },
     {
       "id": 2,
